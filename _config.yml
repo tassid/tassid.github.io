@@ -8,35 +8,36 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist
-email: gsmv8rlm8@mozmail.com
+title: Tassiane Anzolin
+name: Tassiane Anzolin
+position: Computer Science Student & Software Developer
+email: anzolintassiane at gmail dot com
 description: |
-  I am a researcher in 3D computer vision and generative AI. I am a founding member at [World Labs](https://www.worldlabs.ai/blog) where we are expanding the frontier of spatial intelligence.
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/) for products on Google Search.
+  I am a Computer Science student at [UTFPR Campus Medianeira](https://www.utfpr.edu.br/), 
+  currently completing my undergraduate thesis on panoramic image fusion techniques for object detection.
+  
+  I have professional experience as a Software Developer at [Sicredi](https://www.sicredi.com.br/) (2022-2024), 
+  where I developed systems using C#, Python, and RPA technologies.
+  
+  Previously, I was a research intern at [EMBRAPA](https://www.embrapa.br/) (2020-2021), 
+  working on computer vision applications for precision agriculture.
+  
+  My research interests include computer vision, machine learning, cybersecurity, and full-stack development. 
+  I recently won 1st place in a CTF cybersecurity competition at Latinoware 2025.
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
-
-  My current research interests are primarily in 3D generative AI and diffusion models.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://tassianeanzolin.com" # ajuste com seu domínio
+twitter_username: # seu username se tiver
+github_username: tassi-anzolin # ajuste com seu username
+google_scholar: # seu ID se tiver perfil no Google Scholar
+google_analytics: # seu ID do Google Analytics se quiser usar
+linkedin_username: tassiane-anzolin # ajuste com seu username do LinkedIn
 
 # Build settings
 theme: minima
